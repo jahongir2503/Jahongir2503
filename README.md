@@ -1,5 +1,5 @@
 # Learning status
-_________
+
 ![Gosling](https://media1.tenor.com/m/j1raonaU590AAAAd/ryan-gosling-sad-sad-gosling.gif)
 =====================================================================================================================================
 
